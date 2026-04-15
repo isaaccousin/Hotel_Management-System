@@ -1,0 +1,9 @@
+[29-May-2025 17:09:08 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function log_action() in /home/www/primosmarts.com/1520/47sevenpointshotel/api/room_action.php:309
+Stack trace:
+#0 {main}
+  thrown in /home/www/primosmarts.com/1520/47sevenpointshotel/api/room_action.php on line 309
+[29-May-2025 17:10:21 Africa/Lagos] REFUND triggered for room ID: 1
+[29-May-2025 17:18:37 Africa/Lagos] REFUND triggered for room ID: 1
+[22-Jun-2025 12:13:36 Africa/Lagos] REFUND triggered for room ID: 23
+[26-Aug-2025 18:43:27 Africa/Lagos] Partial Refund Error: No active booking found or booking data incomplete.
+[26-Aug-2025 18:43:45 Africa/Lagos] Refund Error: Booking data missing or incomplete.
